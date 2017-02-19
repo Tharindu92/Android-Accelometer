@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2BEFA00A-D43B-ECD6-2303-B1ADFA07F956}") = "Accelometer", "Assembly-CSharp.csproj", "{763BCD72-1B59-5B30-9260-55863C9AF427}"
+EndProject
+Project("{2BEFA00A-D43B-ECD6-2303-B1ADFA07F956}") = "Accelometer", "Assembly-CSharp-Editor.csproj", "{C60EF9D9-9DB7-C167-845A-DD68785C36DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{763BCD72-1B59-5B30-9260-55863C9AF427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763BCD72-1B59-5B30-9260-55863C9AF427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763BCD72-1B59-5B30-9260-55863C9AF427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763BCD72-1B59-5B30-9260-55863C9AF427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60EF9D9-9DB7-C167-845A-DD68785C36DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60EF9D9-9DB7-C167-845A-DD68785C36DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60EF9D9-9DB7-C167-845A-DD68785C36DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60EF9D9-9DB7-C167-845A-DD68785C36DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
